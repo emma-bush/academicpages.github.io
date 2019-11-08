@@ -10,37 +10,37 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-Ph.D. in Tropical Phenology, University of Stirling, 2018
-M.Sc. in Conservation Science, Imperial College London, 2013
-B.A. in Biological Sciences, University of Oxford, 2010
+* Ph.D. in Tropical Phenology, University of Stirling, 2018
+* M.Sc. in Conservation Science, Imperial College London, 2013
+* B.A. in Biological Sciences, University of Oxford, 2010
 
 ### Research
-2019 - present: Postdoctoral Research Assistant (0.4 FT) 
-* UK Centre for Ecology and Hydrology (CEH)
-* Phenology and ecological genetics in the Kenyan drylands
-* Supervisor: Dr Stephen Cavers
+* 2019 - present: Postdoctoral Research Assistant (0.4 FT) 
+  * UK Centre for Ecology and Hydrology (CEH)
+  * Phenology and ecological genetics in the Kenyan drylands
+  * Supervisor: Dr Stephen Cavers
     
-2019 - present: Postdoctoral Research Assistant (0.5 FT) 
-* University of Stirling
-* Long term trends in Central African Forest Phenology
-* Supervisor: Prof Katharine Abernethy
+* 2019 - present: Postdoctoral Research Assistant (0.5 FT) 
+  * University of Stirling
+  * Long term trends in Central African Forest Phenology
+  * Supervisor: Prof Katharine Abernethy
     
-2014 - 2018: PhD Thesis
-* University of Stirling
-* Tropical phenology in a time of change
-* Supervisors: Prof Nils Bunnefeld and Prof Katharine Abernethy
+* 2014 - 2018: PhD Thesis
+  * University of Stirling
+  * Tropical phenology in a time of change
+  * Supervisors: Prof Nils Bunnefeld and Prof Katharine Abernethy
 
-2014 - 2018: MSc Thesis
-* Imperial College London
-* What’s the Catch? Mosquito net fishing in coastal East Africa
-* Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
+* 2014 - 2018: MSc Thesis
+  * Imperial College London
+  * What’s the Catch? Mosquito net fishing in coastal East Africa
+  * Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
 
-2010 - 2012: Academic Researcher
-* University of Oxford
-* A global review of the exotic pet trade
-* Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
-* Woodland recovery after removal of deer: cascade effects for small mammals 
-* Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
+* 2010 - 2012: Academic Researcher
+  * University of Oxford
+  * A global review of the exotic pet trade
+  * Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
+  * Woodland recovery after removal of deer: cascade effects for small mammals 
+  * Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
     
 ### Skills
 * Skill 1
