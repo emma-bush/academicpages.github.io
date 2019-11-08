@@ -17,38 +17,30 @@ redirect_from:
 ### Research
 * 2019 - present: Postdoctoral Research Assistant (0.4 FT) 
   * UK Centre for Ecology and Hydrology (CEH)
-  * Phenology and ecological genetics in the Kenyan drylands
+  * Project: Phenology and ecological genetics in the Kenyan drylands
   * Supervisor: Dr Stephen Cavers
-    
+
 * 2019 - present: Postdoctoral Research Assistant (0.5 FT) 
   * University of Stirling
-  * Long term trends in Central African Forest Phenology
+  * Project: Long term trends in Central African Forest Phenology
   * Supervisor: Prof Katharine Abernethy
-    
+
 * 2014 - 2018: PhD Thesis
   * University of Stirling
-  * Tropical phenology in a time of change
+  * Project: Tropical phenology in a time of change
   * Supervisors: Prof Nils Bunnefeld and Prof Katharine Abernethy
 
 * 2014 - 2018: MSc Thesis
   * Imperial College London
-  * What’s the Catch? Mosquito net fishing in coastal East Africa
+  * Project: What’s the Catch? Mosquito net fishing in coastal East Africa
   * Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
 
 * 2010 - 2012: Academic Researcher
   * University of Oxford
-  * A global review of the exotic pet trade
-  * Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
-  * Woodland recovery after removal of deer: cascade effects for small mammals 
+  * Project: A global review of the exotic pet trade
+  * Project: Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
+  * Project: Woodland recovery after removal of deer: cascade effects for small mammals 
   * Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
-    
-### Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 ### Publications
   <ul>{% for post in site.publications %}
