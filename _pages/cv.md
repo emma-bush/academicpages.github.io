@@ -47,7 +47,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Ecology and Society and PeerJ
+* Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Ecology and Society and PeerJ
 
 ### Talks
   <ul>{% for post in site.talks %}
