@@ -5,7 +5,7 @@ permalink: /publication/2017-07-26-mosquito-nets
 excerpt: ''
 date: 2016-07-26
 venue: 'Conservation Letters'
-paperurl: 'http://academicpages.github.io/files/2016_Bush_mosquito-nets.pdf'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/conl.12286'
 citation: 'Bush, E.R., Short, R.E., Milner‐Gulland, E.J., Lennox, K., Samoilys, M. and Hill, N., 2017. Mosquito net use in an artisanal East African fishery. Conservation Letters, 10(4), pp.451-459.'
 ---
   
