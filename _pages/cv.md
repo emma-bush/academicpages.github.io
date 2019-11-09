@@ -14,7 +14,7 @@ redirect_from:
 * M.Sc. in Conservation Science, Imperial College London, 2013
 * B.A. in Biological Sciences, University of Oxford, 2010
 
-### Research
+### Research experience
 * 2019 - present: Postdoctoral Research Assistant (0.4 FT) 
   * UK Centre for Ecology and Hydrology (CEH)
   * Project: Phenology and ecological genetics in the Kenyan drylands
@@ -49,14 +49,9 @@ redirect_from:
 
 Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Ecology and Society and PeerJ
 
-### Talks
+### Talks and meetings
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-### Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ### Grants and scholarships
