@@ -5,7 +5,7 @@ permalink: /publication/2017-05-01-fourier-phenology
 excerpt: ''
 date: 2017-05-01
 venue: 'Methods in Ecology and Evolution'
-paperurl: 'http://academicpages.github.io/files/2017_Bush_fourier-phenology.pdf'
+paperurl: 'https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12704'
 citation: 'Bush, E.R., Abernethy, K.A., Jeffery, K., Tutin, C., White, L., Dimoto, E., Dikangadissi, J.T., Jump, A.S. and Bunnefeld, N., 2017. Fourier analysis to detect phenological cycles using long‐term tropical field data and simulations. Methods in Ecology and Evolution, 8(5), pp.530-540.'
 ---
   
