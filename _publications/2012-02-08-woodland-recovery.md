@@ -1,5 +1,5 @@
 ---
-title: "Woodland recovery after suppression of deer: cascade effects for small mammals, wood mice (Apodemus sylvaticus) and bank voles (Myodes glareolus)2"
+title: "Woodland recovery after suppression of deer: cascade effects for small mammals, wood mice (Apodemus sylvaticus) and bank voles (Myodes glareolus)"
 collection: publications
 permalink: /publication/2012-02-08-woodland-recovery2
 excerpt: ''
