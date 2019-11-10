@@ -1,0 +1,7 @@
+---
+title: "Forest-savanna ecosystems in western equatorial Africa"
+excerpt: "Long-term ecological monitoring at Lopé NP, Gabon 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+Lopé NP has hosted scientific study of the savanna-forest landscape since the early 1908s. An ongoing study of individual-plant phenology (leaf, flower and fruits) has been running continuously for 32 years,  from 1986 to the present. Originated to study resource availability for chimpanzees and gorillas, such continuous, long-term phenology data is extremely rare in the tropics (matched by only one other site, BCI in Panama) and holds unique value to understand the dynamics of tropical forest ecosystems, the impacts of global environmental change and the role of tropical forests in global climatic and atmospheric processes. Plant phenology also underpins the availability of resources for animals and people (Butt et al. 2015; Morellato et al. 2016; Abernethy et al. 2018) and products harvested from indigenous fruit trees form important nutritional and cultural roles for both the rural and urban population in Gabon (Mikolo Yobo & Ito 2015). Of the 80+ plant species monitored at Lopé NP since 1984, seven are recognised as important indigenous fruit trees because they provide non-timber forest products (NTFPs) traditionally used by Gabonese people for cooking, medicine and cultural activities (Iponga et al. 2018).  
