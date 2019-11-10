@@ -1,6 +1,6 @@
 ---
 title: "Forest-savanna ecosystems in western equatorial Africa"
-excerpt: "Long-term ecological monitoring at Lopé NP, Gabon <br/><img src='/images/500x300.png'>"
+excerpt: "Long-term ecological monitoring at Lopé NP, Gabon <br/><img src='/images//Figure 8_Moabi crown.jpg'>"
 collection: portfolio
 ---
 
@@ -14,4 +14,4 @@ I joined the Lopé research team in 2014 when I began my PhD at the University o
 
 During this time I developed new analytical techniques for tropical phenology research ([Bush et al., 2017](https://emma-bush.github.io/publication/2017-05-01-fourier-phenology), [Bush et al., 2018](https://emma-bush.github.io/publication/2018-05-01-phenology-uncertainty), co-authored the first cross-site analysis of tropical tree flowering and fruiting cycles in Africa ([Adamescu et al. 2018](https://emma-bush.github.io/publication/2018-05-01-annual-cycles)), analysed the seasonal, inter-annual and long-term climate at the site ([Bush et al. 2019](https://emma-bush.github.io/publication/2019-07-10-warming-drying)) and presented at multiple conferences on the long-term changes we have observed in plant phenological function ().
 
-Since 2014 I have also been responsible for managing the data from the Lopé long-term phenology and weather programs. The tasks involved in managing these data include cleaning and digitising historic records, monitoring the quality of and archiving ongoing data collection, refining field methods and publishing datasets in public repositories. 
+My tasks in the Lopé research team mostly involve managing the data from the long-term phenology and weather programs (cleaning and digitising historic records, monitoring the quality of and archiving ongoing data collection, refining field methods and publishing datasets in public repositories) and leading on new analyses. While I am based in Scotland, I have been incredibly privileged to join the Lopé team on a number of field visits over the years and have instigated new field work including remeasures of all trees in the phenology dataset geolocating the canopies of Moabi trees.
