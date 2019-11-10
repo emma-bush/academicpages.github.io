@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
