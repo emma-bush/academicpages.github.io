@@ -1,9 +1,9 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Useful trees in the Kenyan drylands"
+excerpt: "Ecological genetics and functional trait diversity of native tree species for a changing climate  <br/><img src='/images/'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Kenyan drylands make up more than 80% of the country's land area and host more than 30% of the population. With climate changes already being felt by rural agriculturalists, scientists are looking to improve knowledge of drought tolerant native tree species for greatwer use within agroforestry in these marginal landscapes.
 
-![alt text](/images/Lope_Moabi_DavidLehmann.png "Logo Title Text 1")
+In 2019 I joined Dr Stephen Cavers' research group at the UK's Centre for Ecology and Hyrdology on a research project aiming to analyse the functional diversity of reproductive traits within individual tree species. I developed mobile phone data collection tool (using open source software from the OpenDataKit) to record leafing and reproductive phenology at trial planting sites. Alongside colleagues at the Kenya Forest Research Initiative (KEFRI) we developed observation protocols for two species - Melia volkensii and Moringa olifera - and data collection has been undertaken weekly for over 1000 individual trees since August 2019. 
