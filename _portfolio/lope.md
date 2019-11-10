@@ -1,6 +1,6 @@
 ---
-title: "Forest-savanna ecosystems in western equatorial Africa"
-excerpt: "Long-term ecological monitoring at Lopé NP, Gabon <br/><img src='/images/Lope_Forest_JeremyCusack.png'>"
+title: "Long-term ecological monitoring at Lopé NP, Gabon"
+excerpt: "Forest function and environmental change in western equatorial Africa <br/><img src='/images/Lope_Forest_JeremyCusack.png'>"
 collection: portfolio
 ---
 
@@ -16,8 +16,8 @@ Long-term data on plant life cycling is extremely rare in the tropics and the Lo
 
 I joined the Lopé research team in 2014 when I began my PhD at the University of Stirling (funded collaboratively with Gabon's National Parks Agency). The aims of my thesis were to describe the cyclicity and seasonality of plant phenology at this study site in western equatorial Africa and - now that the dataset is more than three decades long - analyse interannual variability and long-term changes in plant function associated with environmental change.
 
-During this time I developed new analytical techniques for tropical phenology research ([Bush et al., 2017](https://emma-bush.github.io/publication/2017-05-01-fourier-phenology), [Bush et al., 2018](https://emma-bush.github.io/publication/2018-05-01-phenology-uncertainty), co-authored the first cross-site analysis of tropical tree flowering and fruiting cycles in Africa ([Adamescu et al. 2018](https://emma-bush.github.io/publication/2018-05-01-annual-cycles)), analysed the seasonal, inter-annual and long-term climate at the site ([Bush et al. 2019](https://emma-bush.github.io/publication/2019-07-10-warming-drying)) and presented at multiple conferences on the long-term changes we have observed in plant phenological function ().
+During this time I developed new analytical techniques for tropical phenology research ([Bush et al., 2017](https://emma-bush.github.io/publication/2017-05-01-fourier-phenology), [Bush et al., 2018](https://emma-bush.github.io/publication/2018-05-01-phenology-uncertainty), co-authored the first cross-site analysis of tropical tree flowering and fruiting cycles in Africa ([Adamescu et al. 2018](https://emma-bush.github.io/publication/2018-05-01-annual-cycles)), analysed the seasonal, inter-annual and long-term climate at the site ([Bush et al. 2019](https://emma-bush.github.io/publication/2019-07-10-warming-drying)) and presented the long-term changes observed in Lopé plant phenological function at multiple conferences on (publications in preparation).
+
+My role in the Lopé research team mostly involves managing the data from the long-term phenology and weather programs (cleaning and digitising historic records, monitoring the quality of and archiving ongoing data collection, refining field methods and publishing datasets in public repositories), leading on new analyses and connecting the long-term ecological research to national and international policy. While I am based in Scotland, I have been incredibly privileged to join the Lopé team on a number of field visits over the years and am in awe of this incredible ecosystem and the species found there.
 
 ![alt text](/images/Lope_Moabi_DavidLehmann.png "A defoliated Moabi crown (c) David Lehmann")
-
-My role in the Lopé research team mostly involves managing the data from the long-term phenology and weather programs (cleaning and digitising historic records, monitoring the quality of and archiving ongoing data collection, refining field methods and publishing datasets in public repositories) and leading on new analyses. While I am based in Scotland, I have been incredibly privileged to join the Lopé team on a number of field visits over the years.
