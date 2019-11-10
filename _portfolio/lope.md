@@ -1,6 +1,6 @@
 ---
 title: "Forest-savanna ecosystems in western equatorial Africa"
-excerpt: "Long-term ecological monitoring at Lopé NP, Gabon <br/><img src='/images//Figure 8_Moabi crown.jpg'>"
+excerpt: "Long-term ecological monitoring at Lopé NP, Gabon <br/><img src='/images/Lope_Forest_JeremyCusack.png'>"
 collection: portfolio
 ---
 
