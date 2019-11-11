@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emma Bush"
-  avatar           : "/images/Profile1.png"
+  avatar           : "images/Profile1.png"
   bio              : "Ecologist"
   location         : "UK"
   employer         :
