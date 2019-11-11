@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Net Zero Academic"
+title: "Net Zero"
 permalink: /netzero/
 author_profile: true
 ---
 
-### Is it possible to be a net zero academic?
+### Is it possible to be a "Net Zero Academic"?
 
 We are facing a [climate and ecological emergency](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biz088/5610806) that requires **radical transformation of how we go about our daily lives**. I live and work in Scotland, a nation that has committed in law to become a [net-zero society by 2045](https://www.gov.scot/news/scotland-to-become-a-net-zero-society/).
 
