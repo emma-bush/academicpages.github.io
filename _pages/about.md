@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher, based in the UK, currently working at both the [UK Centre for Ecology and Hydrology (CEH)](https://www.ceh.ac.uk) and the [University of Stirling](https://www.stir.ac.uk/people/256821).
+I am a Postdoctoral Researcher based in the UK, currently working at both the [UK Centre for Ecology and Hydrology (CEH)](https://www.ceh.ac.uk) and the [University of Stirling](https://www.stir.ac.uk/people/256821).
 
 My priority is to develop core and applied research that benefits resource-dependent communities and supports national and international governance plans as we face the ecological and climatological challenges of the next century.
 
