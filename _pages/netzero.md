@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Net Zero?"
+title: "Net Zero Academic"
 permalink: /netzero/
 author_profile: true
 ---
