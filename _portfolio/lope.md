@@ -20,4 +20,4 @@ During this time I developed new analytical techniques for tropical phenology re
 
 My role in the Lopé research team mostly involves managing the data from the long-term phenology and weather programs (cleaning and digitising historic records, monitoring the quality of and archiving ongoing data collection, refining field methods and publishing datasets in public repositories), leading on new analyses and connecting the long-term ecological research to national and international policy. While I am based in Scotland, I have been incredibly privileged to join the Lopé team on a number of field visits over the years and am in awe of this incredible ecosystem, the species found there and my colleagues who have dedicated years of careful observation to learn more about it.
 
-![alt text](/images/Lope_Moabi_DavidLehmann.png "A defoliated Moabi crown (c) David Lehmann")
+![alt text](/images/Lope_team_EmmaBush.png "The Lopé research team 2016 (c) Emma Bush")
