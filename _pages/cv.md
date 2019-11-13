@@ -49,6 +49,11 @@ redirect_from:
 
 Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Ecology and Society and PeerJ
 
+### Prizes
+2018 - Shortlisted for the Robert May Prize, Methods in Ecology and Evolution, British Ecological Society
+2016 - Best PhD Student publication, Winter Symposium, University of Stirling
+2015 - Best PhD Student presentation, Winter Symposium, University of Stirling
+
 ### Talks and meetings
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
