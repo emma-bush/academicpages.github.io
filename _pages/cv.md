@@ -10,9 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* Ph.D. in Tropical Phenology, University of Stirling, 2018
+* Ph.D. in Environmental Science, University of Stirling, 2018
+  * Thesis: "Tropical Phenology in a Time of Change" - supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
 * M.Sc. in Conservation Science, Imperial College London, 2013
+  * Thesis: "What's the Catch? Mosquite Net Fishing in Coastal East Africa" supervised by Prof. EJ Milner Gulland and Dr Nick Hill
 * B.A. in Biological Sciences, University of Oxford, 2010
+  * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
 ### Research experience
 * 2019 - present: Postdoctoral Research Assistant (0.4 FT) 
@@ -43,7 +46,7 @@ redirect_from:
   * Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
 
 ### Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -51,11 +54,13 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 
 ### Prizes
 2018 - Shortlisted for the Robert May Prize, Methods in Ecology and Evolution, British Ecological Society
+
 2016 - Best PhD Student publication, Winter Symposium, University of Stirling
+
 2015 - Best PhD Student presentation, Winter Symposium, University of Stirling
 
 ### Talks and meetings
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -68,3 +73,4 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 * Conservation Science MSc Bursary (2012) - £4000 living expenses.
 * Imperial College London Rector’s Scholarship Fund Masters Award (2012) - £5000 living expenses and fees.
 * Peoples Trust for Endangered Species Graduate Research Internship (2010) - £6000 fieldwork costs (PI).
+* Hertford College Academic Scholarship, University of Oxford (2009)
