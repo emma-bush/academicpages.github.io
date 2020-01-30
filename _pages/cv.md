@@ -11,13 +11,13 @@ redirect_from:
 
 ### Education
 * Ph.D. in Environmental Science, University of Stirling, 2018
-  * Thesis: "Tropical Phenology in a Time of Change" - supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
+  * Thesis: "Tropical Phenology in a Time of Change" supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
 * M.Sc. in Conservation Science, Imperial College London, 2013
   * Thesis: "What's the Catch? Mosquite Net Fishing in Coastal East Africa" supervised by Prof. EJ Milner Gulland and Dr Nick Hill
 * B.A. in Biological Sciences, University of Oxford, 2010
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
-### Research experience
+### Employment
 * 2019 - present: Postdoctoral Research Assistant (0.4 FT) 
   * UK Centre for Ecology and Hydrology (CEH)
   * Project: Phenology and ecological genetics in the Kenyan drylands
@@ -28,22 +28,12 @@ redirect_from:
   * Project: Long term trends in Central African Forest Phenology
   * Supervisor: Prof Katharine Abernethy
 
-* 2014 - 2018: PhD Thesis
-  * University of Stirling
-  * Project: Tropical phenology in a time of change
-  * Supervisors: Prof Nils Bunnefeld and Prof Katharine Abernethy
-
-* 2014 - 2018: MSc Thesis
-  * Imperial College London
-  * Project: What’s the Catch? Mosquito net fishing in coastal East Africa
-  * Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
-
 * 2010 - 2012: Academic Researcher
   * University of Oxford
   * Project: A global review of the exotic pet trade
   * Project: Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
   * Project: Woodland recovery after removal of deer: cascade effects for small mammals 
-  * Supervisors: Prof EJ Milner-Gulland and Dr Nick Nill
+  * Supervisors: Prof. David Macdonald and Dr Eleanor Slade
 
 ### Publications
   <ul>{% for post in site.publications reversed %}
