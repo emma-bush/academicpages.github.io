@@ -10,8 +10,6 @@ collection: portfolio
 
 ![](/images/gabon5.png)
 
-![](/images/gabon7.png)
-
 ![alt text](/images/Figure 8_Moabi crown.jpg "Defoliated Moabi Crown, Lopé NP, Gabon (c) David Lehmann")
 
 
