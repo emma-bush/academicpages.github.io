@@ -1,6 +1,6 @@
 ---
 title: "Long-term Ecological Monitoring at Lopé NP, Gabon"
-excerpt: "Forest function, environmental change and climate adaptation in western equatorial Africa <br/><img src='/images/Lope_Forest_JeremyCusack.png'>"
+excerpt: "Forest function, environmental change and climate adaptation in western equatorial Africa <br/><img src='/images/Lope.png'>"
 collection: portfolio
 ---
 
