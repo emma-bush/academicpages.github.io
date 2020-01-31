@@ -9,9 +9,11 @@ I live in central Scotland in the UK and spend most of my time in urban environm
 I practise back-garden permaculture to improve urban biodiversity, carbon sequestration and provide fresh food for my family. I also prioritise low-carbon transport, low-carbon energy production and reduced domestic energy use in my personal life and in local policy making.
 
 ![alt text](/images/raisedbeds.png "Back-garden permaculture")
+
 **
 
 ![alt text](/images/meadow.png "Back-garden permaculture")
+
 **
 
 ![alt text](/images/meadow2.png "Back-garden permaculture")
