@@ -1,6 +1,6 @@
 ---
 title: "The Moabi Story"
-excerpt: "Climate adaptation and wild resources  <br/><img src='/images/Moabi.png'>"
+excerpt: "Climate adaptation and resilience for wild fruit enterprises <br/><img src='/images/Moabi.png'>"
 collection: portfolio
 ---
 
