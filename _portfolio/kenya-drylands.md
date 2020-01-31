@@ -1,6 +1,6 @@
 ---
 title: "Climate adaptation in the Kenyan drylands"
-excerpt: "Ecological genetics and functional trait diversity of native tree species for a changing climate  <br/><img src='/images/Kenya_acacia.png'>"
+excerpt: "Ecological genetics and functional trait diversity of native tree species for a changing climate  <br/><img src='/images/Kenya_acacia.png =250x'>"
 collection: portfolio
 ---
 
