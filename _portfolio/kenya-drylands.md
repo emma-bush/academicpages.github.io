@@ -1,5 +1,5 @@
 ---
-title: "Useful trees in the Kenyan drylands"
+title: "Climate adaptation in the Kenyan drylands"
 excerpt: "Ecological genetics and functional trait diversity of native tree species for a changing climate  <br/><img src='/images/Kenya_acacia.png'>"
 collection: portfolio
 ---
