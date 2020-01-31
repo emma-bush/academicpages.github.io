@@ -1,6 +1,6 @@
 ---
 title: "The Moabi story"
-excerpt: "Climate adaptation in wild resource use  <br/><img src='/images/meadow2.png'>"
+excerpt: "Climate adaptation in wild resource use  <br/><img src='/images/gabon4.png'>"
 collection: portfolio
 ---
 
