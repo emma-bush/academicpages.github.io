@@ -1,6 +1,6 @@
 ---
 title: "Urban resilience"
-excerpt: "Improving ability of urban communities to survive adapt and grow  <br/><img src='/images/meadow2.png'>"
+excerpt: "Improving ability of urban communities to survive adapt and grow  <br/><img src='/images/Garden.png'>"
 collection: portfolio
 ---
 
