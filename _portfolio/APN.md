@@ -1,5 +1,5 @@
 ---
-title: "African Phenology Network"
+title: "The African Phenology Network"
 excerpt: "Networking phenology researchers across the African continent  <br/><img src='/images/APN.png'>"
 collection: portfolio
 ---
