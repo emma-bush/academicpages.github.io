@@ -1,5 +1,5 @@
 ---
-title: "Urban resilience"
+title: "Urban Resilience"
 excerpt: "Enabling urban communities to survive, adapt and grow  <br/><img src='/images/Garden.png'>"
 collection: portfolio
 ---
