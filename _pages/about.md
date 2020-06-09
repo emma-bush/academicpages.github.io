@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher based in the UK, currently working at both the [UK Centre for Ecology and Hydrology (CEH)](https://www.ceh.ac.uk) and the [University of Stirling](https://www.stir.ac.uk/people/256821).
+I am a researcher at the Royal Botanic Garden Edinburgh where I study plants and their role in human society. 
 
-My priority is to develop core and applied research that **benefits human society** and supports **national and international governance** as we face the **ecological and climatological challenges** of the next century.
+I have a diverse publishing record but my priority is to develop core and applied research that addresses the **climate and ecological emergency**. My main interests and expertise lie in **plant phenology**, **tropical ecosystems** and the role of plants in **urban resilience** and **climate adaptation**.
 
-I am fascinated by **cyclical plant traits** and the ways in which **rapid climate changes impact tropical forest ecosystems**. I have a particular passion for the Afro-tropics and improving the knowledge of this under studied region. I have a diverse publishing record ranging from socio-ecological survey of small-scale artisanal fisheries and global reviews of the exotic pet trade to conservation theory and practise. 
+In my current role I am focussed on urban botany and the ways in which plants improve the resilience of urban neighbourhoods in the face of climate change and other shocks (such as global pandemics!).
 
-In 2017 I founded the [African Phenology Network](https://africanphenologynetwork.online) and continue to reach out to African scientists and those interested in African phenology to lead on this initiative. Get in touch if you have ideas and would like to be involved.
+In recent years I studied the impacts of climate change on tropical forest ecosystems in central African rainforests and climate adaptation for improved agroforestry in east African drylands. I have published a number of papers analysing the longest continuous phenology recording program in Africa (from Lopé National Park, Gabon). In 2017 I founded the [African Phenology Network](https://africanphenologynetwork.online) and am keen to hear from African scientists and those interested in African phenology to lead on this initiative.
 
-Personally, I am passionate about emissions reductions and climate adaptation and engage in low-input permaculture gardening, alternative green transport and domestic energy reductions.
+In a personal capacity, I am keen gardener, a natural historian and an activist for emissions reductions. I practise low-input permaculture, alternative green transport and domestic energy reduction.
 
 ![alt text](/images/Profile3.png "Tropical forest phenology at Lopé NP (c) Nils Bunnefeld")
