@@ -18,12 +18,15 @@ redirect_from:
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
 ### Employment
-* 2019 - present: Postdoctoral Research Assistant (0.4 FT) 
+* 2020 - present: Urban Resilience and Biodiversity Officer (0.6 FTE)
+  * Royal Botanic Garden Edinburgh
+
+* 2019 - 2020: Postdoctoral Research Assistant (0.4 FTE) 
   * UK Centre for Ecology and Hydrology (CEH)
   * Project: Phenology and ecological genetics in the Kenyan drylands
   * Supervisor: Dr Stephen Cavers
 
-* 2019 - present: Postdoctoral Research Assistant (0.5 FT) 
+* 2019 - 2020: Postdoctoral Research Assistant (0.5 FTE) 
   * University of Stirling
   * Project: Long term trends in Central African Forest Phenology
   * Supervisor: Prof Katharine Abernethy
