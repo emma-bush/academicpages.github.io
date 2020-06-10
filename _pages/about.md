@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher studying plants and their role in human society. 
+I study plants and their role in human society. 
 
-My priority is to develop core and applied research that addresses the **climate and ecological emergency**. My main interests and expertise lie in **plant phenology**, **tropical ecosystems** and the role of plants in **urban resilience** and **climate adaptation**.
+My research addresses the **climate and ecological emergency** and my main interests and expertise lie in **plant phenology**, **tropical ecosystems** and the role of plants in **urban resilience** and **climate adaptation**.
 
 My current post at the Royal Botanic Garden Edinburgh is focussed on Urban Botany. I am at the beginning of a 2.5 year project to expore the ways in which plants influence the resilience of urban neighbourhoods. We will be designing this research through the lenses of the current COVID pandemic and the looming climate emergency.
 
