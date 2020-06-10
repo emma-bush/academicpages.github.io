@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher trained in Biological and Conservation Sciences and I study plants and their role in human society. 
+I study plants and their role in human society. 
 
 I have a diverse publishing record but my priority is to develop core and applied research that addresses the **climate and ecological emergency**. My main interests and expertise lie in **plant phenology**, **tropical ecosystems** and the role of plants in **urban resilience** and **climate adaptation**.
 
