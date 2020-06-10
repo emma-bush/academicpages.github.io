@@ -4,6 +4,8 @@ excerpt: "Climate adaptation and resilience for wild fruit enterprises <br/><img
 collection: portfolio
 ---
 
+To be updated...
+
 ![](/images/gabon1.png)
 
 ![](/images/gabon2.png)
