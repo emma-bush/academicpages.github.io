@@ -17,6 +17,9 @@ Afrotropical forests host many of the world’s remaining megafauna, but even he
 ### Media
 
 [BBC World Service - Science in Action](https://www.bbc.co.uk/sounds/play/w3cszh0x)
-[The Independent] (https://www.independent.co.uk/environment/stop-illegal-wildlife-trade-elephants-starving-climate-crisis-causes-africa-s-largest-rainforest-wither-and-die-b582490.html)
+
+[The Independent](https://www.independent.co.uk/environment/stop-illegal-wildlife-trade-elephants-starving-climate-crisis-causes-africa-s-largest-rainforest-wither-and-die-b582490.html)
+
 [Le Monde](https://www.lemonde.fr/afrique/article/2020/10/01/en-afrique-centrale-le-rechauffement-climatique-affame-les-elephants-de-forets_6054415_3212.html)
+
 [Mongabay](https://news.mongabay.com/2020/10/with-a-drastic-decline-in-tropical-fruit-gabons-rainforest-mega-gardeners-go-hungry/)
