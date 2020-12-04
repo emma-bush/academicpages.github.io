@@ -1,5 +1,5 @@
 ---
-title: "The Role of Forest Elephants in Shaping Tropical Forest–Savanna Coexistence"
+title: "The role of forest elephants in shaping tropical forest–savanna coexistence"
 collection: publications
 permalink: /publication/2019-07-31-role-elephants
 excerpt: ''
