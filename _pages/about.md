@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 **Plants are incredible**. There are ~350,000 plants species known to science with >1000 new species described every year. Plants create the foundations of our living planet and we rely on them for food, clothing, shelter, culture and medicines. 
 
 There is still so much to be learnt from and about plants, but many of them might be lost before we have the chance. [2 in 5 plants are threatened with extinction](https://www.kew.org/sites/default/files/2020-10/State%20of%20the%20Worlds%20Plants%20and%20Fungi%202020.pdf) due to human activities such as change of land use, over-harvesting and climate change.
