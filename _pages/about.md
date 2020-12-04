@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Plants, People and the Planet"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I study plants and their role in human society. 
+Plants are amazing. There are more than XXX species of plant and fungi and a huge nMy research focusses on plants and their role in human society. 
 
-My research addresses the **climate and ecological emergency** and my main interests and expertise lie in **plant phenology**, **tropical forest ecosystems** and the role of plants in **urban resilience** and **climate adaptation**.
+I publish scientific papers that address the **climate and ecological emergency** and deliver policy-relevant briefings to governments. My main scientific interests and expertise lie in **plant life cycle events**, **tropical forest ecosystems**, **non-timber forest products** and the role of plants in **urban resilience** and **climate adaptation**.
 
-My current post at the Royal Botanic Garden Edinburgh is focussed on Urban Botany. I have just started a 2.5 year project to explore the role of plants and biodiversity in the resilience of urban neighbourhoods. We will be designing this research through the lenses of the current COVID pandemic and the looming climate emergency and are keen to hear from potential collaborators.
-
-In recent years I studied the impacts of climate change on tropical forest ecosystems in the central African rainforests (University of Stirling) and climate adaptation for agroforestry in the east African drylands (UK Centre for Ecology and Hydrology). I continue to archive data from the longest continuous phenology recording program in Africa (Lopé National Park, Gabon) and have published a number of papers analysing these long-term weather and phenology data. In 2017 I founded the [African Phenology Network](https://africanphenologynetwork.online) and am keen to hear from African scientists and those interested in African phenology to lead on this initiative.
-
-In a personal capacity, I am keen gardener, a natural historian and a climate change activist. I practise low-input permaculture, low-carbon transport and retrofitting for domestic energy reduction.
+In 2017 I founded the [African Phenology Network](https://africanphenologynetwork.online) and am keen to hear from African scientists and those interested in African phenology to lead on this initiative.
 
 ![alt text](/images/Profile3.png "Tropical forest phenology at Lopé NP (c) Nils Bunnefeld")
