@@ -18,8 +18,9 @@ redirect_from:
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
 ### Employment
-* 2020 - present: Urban Resilience and Biodiversity Officer (0.6 FTE)
+* 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
+  * Supervisor: Dr Chris Ellis
 
 * 2019 - 2020: Postdoctoral Research Assistant (0.4 FTE) 
   * UK Centre for Ecology and Hydrology (CEH)
