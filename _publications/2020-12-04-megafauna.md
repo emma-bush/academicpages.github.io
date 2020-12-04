@@ -1,7 +1,9 @@
 ---
 title: "Long-term collapse in fruit availability threatens Central African forest megafauna"
 permalink: /publication/2020-12-04-megafauna
-excerpt: ''
+excerpt: 'Abstract: http://science.sciencemag.org/cgi/content/abstract/science.abc7791?ijkey=gu9UBUhFsxKvk&keytype=ref&siteid=sci
+Reprint: http://science.sciencemag.org/cgi/rapidpdf/science.abc7791?ijkey=gu9UBUhFsxKvk&keytype=ref&siteid=sci
+Full text: http://science.sciencemag.org/cgi/content/full/science.abc7791?ijkey=gu9UBUhFsxKvk&keytype=ref&siteid=sci'
 date: 2020-04-14
 venue: 'Science'
 paperurl: 'https://doi.org/10.1126/science.abc7791'
