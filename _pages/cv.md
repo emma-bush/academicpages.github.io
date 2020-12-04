@@ -20,16 +20,17 @@ redirect_from:
 ### Employment
 * 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
+  * Project: The Good City
   * Supervisor: Dr Chris Ellis
 
 * 2019 - 2020: Postdoctoral Research Assistant (0.4 FTE) 
   * UK Centre for Ecology and Hydrology (CEH)
-  * Project: Phenology and ecological genetics in the Kenyan drylands
+  * Project: [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
   * Supervisor: Dr Stephen Cavers
 
 * 2019 - 2020: Postdoctoral Research Assistant (0.5 FTE) 
   * University of Stirling
-  * Project: Long term trends in Central African Forest Phenology
+  * Project: [Long term trends in Central African Forest Phenology](https://emma-bush.github.io/portfolio/lope/)
   * Supervisor: Prof Katharine Abernethy
 
 * 2010 - 2012: Academic Researcher
