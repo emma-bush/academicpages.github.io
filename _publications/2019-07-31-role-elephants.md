@@ -3,10 +3,10 @@ title: "The Role of Forest Elephants in Shaping Tropical Forest–Savanna Coexis
 collection: publications
 permalink: /publication/2019-07-31-role-elephants
 excerpt: ''
-date: 2019-07-31
+date: 2020-04-01
 venue: 'Ecosystems'
 paperurl: 'https://link.springer.com/article/10.1007/s10021-019-00424-3'
-citation: 'Cardoso, A.W., Malhi, Y., Oliveras, I., Lehmann, D., Ndong, J.E., Dimoto, E., Bush, E., Jeffery, K., Labriere, N., Lewis, S.L. and White, L.T., 2019. The Role of Forest Elephants in Shaping Tropical Forest–Savanna Coexistence. Ecosystems, pp.1-15.'
+citation: 'Cardoso, A.W., Malhi, Y., Oliveras, I., Lehmann, D., Ndong, J.E., Dimoto, E., Bush, E., Jeffery, K., Labriere, N., Lewis, S.L. and White, L.T., 2019. The Role of Forest Elephants in Shaping Tropical Forest–Savanna Coexistence. Ecosystems, 23(3), pp.602-616.'
 ---
   
 ### Abstract
