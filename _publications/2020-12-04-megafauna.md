@@ -23,3 +23,7 @@ Afrotropical forests host many of the world’s remaining megafauna, but even he
 [Le Monde](https://www.lemonde.fr/afrique/article/2020/10/01/en-afrique-centrale-le-rechauffement-climatique-affame-les-elephants-de-forets_6054415_3212.html)
 
 [Mongabay](https://news.mongabay.com/2020/10/with-a-drastic-decline-in-tropical-fruit-gabons-rainforest-mega-gardeners-go-hungry/)
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3bWu2YbP_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
