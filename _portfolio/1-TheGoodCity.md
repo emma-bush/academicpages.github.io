@@ -13,4 +13,4 @@ The Good City is a research project run by scientists at the Royal Botanic Garde
 
 The Good City has been designed in such a way that it can be run in any city in the world. As a citizen-led approach it doesn’t rely on political decisions or detailed city adaptation plans. The Good City has the potential to connect young people across the world with each other via the global issues that they all face.
 
-
+![alt text](/images/thegoodcitycentralised.png "The Good City (c) Emma Bush =125x")
