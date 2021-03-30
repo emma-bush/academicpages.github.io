@@ -12,7 +12,9 @@ But while we need nature, nature also needs us. Habitat loss, pollution and clim
 
 ![alt text](/images/GoodCityMapping2.png "Dr Emma Bush talking with young people about urban biodiversity (c) Emma Bush =125x")
 
-The Good City is a research project run by scientists at the Royal Botanic Garden Edinburgh as part of the Edinburgh Living Landscape initiative. Our aim is to fix the nature gap in urban areas by providing high quality data at local scales and empowering young people to advocate for better, future-adapted cities. From Spring 2021 we we are inviting young people throughout Edinburgh secondary schools to become co-investigators in a scientific research project to assess the resilience of their own neighborhoods using their “route to school” as a sampling tool. 
+The Good City is a research project run by scientists at the Royal Botanic Garden Edinburgh as part of the Edinburgh Living Landscape initiative. Our aim is to fix the nature gap in urban areas by providing high quality data at local scales and empowering young people to advocate for better, future-adapted cities. From Spring 2021 we are inviting young people throughout Edinburgh secondary schools to become co-investigators in a scientific research project to assess the resilience of their own neighborhoods using their “route to school” as a sampling tool. 
+
+![alt text](/images/Survey_screenshot.PNG "Mapping activity as core task in online survey (c) Emma Bush =125x")
 
 The Good City has been designed in such a way that it can be run in any city in the world. As a citizen-led approach it doesn’t rely on political decisions or detailed city adaptation plans. The Good City has the potential to connect young people across the world with each other via the global issues that they all face.
 
@@ -49,8 +51,6 @@ If schools choose to participate in The Good City, we will ask them to direct st
 What resources are needed to take part in The Good City?
 ------
 The online course and survey are desk-based and require individual access to a computer or tablet. It is possible to do the survey using phones, but students will find this more difficult. The main activity of the survey relies on students being able to draw a route on an online map and recall their experiences in their neighbourhood. Both the introductory course and survey could be done in class or as a homework task. If of interest, it should be possible (but not compulsory) to arrange a live video conference discussion between the class and the project-lead (Dr Emma Bush) either as an introduction or a follow-up to the survey.
-
-![alt text](/images/Survey_screenshot.PNG "Mapping activity as core task in online survey (c) Emma Bush =125x")
 
 How many students should take part?
 ------
