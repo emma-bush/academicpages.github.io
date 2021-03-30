@@ -44,11 +44,13 @@ How long does it take to complete The Good City?
 ------
 If schools choose to participate in The Good City, we will ask them to direct students to a webpage where they will be led through an interactive online course introducing them to the themes of the project and its research aims (10-15 mins). Once they have completed this they will be invited to take part in the online mapping survey (10-15 mins). In total we expect participation in the project to take less than 30 minutes.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grOcn2VccaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 What resources are needed to take part in The Good City?
 ------
 The online course and survey are desk-based and require individual access to a computer or tablet. It is possible to do the survey using phones, but students will find this more difficult. The main activity of the survey relies on students being able to draw a route on an online map and recall their experiences in their neighbourhood. Both the introductory course and survey could be done in class or as a homework task. If of interest, it should be possible (but not compulsory) to arrange a live video conference discussion between the class and the project-lead (Dr Emma Bush) either as an introduction or a follow-up to the survey.
 
-![alt text](/images/Survey_screenshot.png "Mapping activity as core task in online survey (c) Emma Bush =125x")
+![alt text](/images/Survey_screenshot.PNG "Mapping activity as core task in online survey (c) Emma Bush =125x")
 
 How many students should take part?
 ------
