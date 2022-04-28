@@ -11,7 +11,7 @@ redirect_from:
 # Education
 
 <details>
-   <summary markdown="span"> Expand </summary>
+   <summary markdown="span"> Show more / less </summary>
 Ph.D. in Environmental Science, University of Stirling, 2018
   * Thesis: "Tropical Phenology in a Time of Change" supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
 
@@ -20,6 +20,7 @@ M.Sc. in Conservation Science, Imperial College London, 2013
 
 B.A. in Biological Sciences, University of Oxford, 2010
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
+  
 <details>
   
 # Employment
