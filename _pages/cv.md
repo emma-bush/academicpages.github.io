@@ -19,7 +19,7 @@ redirect_from:
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
 <details>
-  <summary>### Employment</summary>
+  <summary>Employment</summary>
   
 * 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
@@ -46,7 +46,7 @@ redirect_from:
 
 ### Publications
 <details>
-  <summary>Click to expand!</summary>
+  <summary></summary>
   
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
