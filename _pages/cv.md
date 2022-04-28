@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+----
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+----
+
 ### Education
   
 Ph.D. in Environmental Science, University of Stirling, 2018
