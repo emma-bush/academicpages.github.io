@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-----
-
-# On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
-----
 
 # Education
   
