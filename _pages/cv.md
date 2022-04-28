@@ -11,7 +11,6 @@ redirect_from:
 ## Education
 
 **Ph.D. in Environmental Science, University of Stirling (2018) 
-["Tropical Phenology in a Time of Change"](https://dspace.stir.ac.uk/handle/1893/29325#.Ymqu99PMI2w)**
 
 **M.Sc. in Conservation Science, Imperial College London (2013)**
 
@@ -21,9 +20,9 @@ redirect_from:
 
 Current role:
 
-**Urban Biodiversity Scientist (2020-present), Royal Botanic Garden Edinburgh)**
-- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
-- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
+>**Urban Biodiversity Scientist (2020-present), Royal Botanic Garden Edinburgh)**
+>- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
+>- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
    <summary> Historic roles: </summary>
