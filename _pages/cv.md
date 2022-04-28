@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-<details>
-  <summary>Click to expand!</summary>
   
 * Ph.D. in Environmental Science, University of Stirling, 2018
   * Thesis: "Tropical Phenology in a Time of Change" supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
@@ -19,7 +17,6 @@ redirect_from:
   * Thesis: "What's the Catch? Mosquite Net Fishing in Coastal East Africa" supervised by Prof. EJ Milner Gulland and Dr Nick Hill
 * B.A. in Biological Sciences, University of Oxford, 2010
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
-</details>
 
 ### Employment
 <details>
@@ -59,17 +56,6 @@ redirect_from:
 Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Ecology and Society and PeerJ
 </details>
 
-### Prizes
-<details>
-  <summary>Click to expand!</summary>
-    
-2018 - Shortlisted for the Robert May Prize, Methods in Ecology and Evolution, British Ecological Society
-
-2016 - Best PhD Student publication, Winter Symposium, University of Stirling
-
-2015 - Best PhD Student presentation, Winter Symposium, University of Stirling
-</details>
-
 ### Talks and meetings
  <details>
   <summary>Click to expand!</summary>
@@ -95,3 +81,13 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 * Hertford College Academic Scholarship, University of Oxford (2009)
     </details>
     
+### Prizes
+<details>
+  <summary>Click to expand!</summary>
+    
+2018 - Shortlisted for the Robert May Prize, Methods in Ecology and Evolution, British Ecological Society
+
+2016 - Best PhD Student publication, Winter Symposium, University of Stirling
+
+2015 - Best PhD Student presentation, Winter Symposium, University of Stirling
+</details>
