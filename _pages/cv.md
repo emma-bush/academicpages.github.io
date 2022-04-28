@@ -18,9 +18,8 @@ redirect_from:
 * B.A. in Biological Sciences, University of Oxford, 2010
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
-### Employment
 <details>
-  <summary>Click to expand!</summary>
+  <summary>### Employment</summary>
   
 * 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
