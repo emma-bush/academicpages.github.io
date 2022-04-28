@@ -20,9 +20,9 @@ B.A. in Biological Sciences, University of Oxford (2010)
 
 Current role:
 
->**Scientist, Royal Botanic Garden Edinburgh**
->- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
->- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
+  >**Scientist, Royal Botanic Garden Edinburgh**
+  >- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
+  >- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
    <summary> Full employment history: </summary>
@@ -43,7 +43,7 @@ Current role:
 
 Featured publication:
 
->Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), [https://doi.org/10.1126/science.abc7791](https://doi.org/10.1126/science.abc7791)
+  >Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), [https://doi.org/10.1126/science.abc7791](https://doi.org/10.1126/science.abc7791)
 
 <details>
   <summary> Full list of publications: </summary>
@@ -61,7 +61,7 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 
 Featured talk:
 
->Fruit famine and hungry elephants in Central Africa (2021), Oxford Center for Tropical Forests, Oxford, UK, [YouTube](https://www.youtube.com/watch?v=r3bWu2YbP_M&feature=youtu.be)
+  >Fruit famine and hungry elephants in Central Africa (2021), Oxford Center for Tropical Forests, Oxford, UK, [YouTube](https://www.youtube.com/watch?v=r3bWu2YbP_M&feature=youtu.be)
 
 <details>
   <summary>Full list of talks and meetings</summary>
@@ -76,7 +76,7 @@ Featured talk:
 ## Grants and scholarships
  Featured grant:
 
->COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh
+  >COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh
 
 <details>
   <summary>Full list of grants and scholarships</summary>
