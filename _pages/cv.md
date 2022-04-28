@@ -10,45 +10,39 @@ redirect_from:
 
 ## Education
 
-**Ph.D. in Environmental Science, University of Stirling (2018)**
-  * ["Tropical Phenology in a Time of Change"](https://dspace.stir.ac.uk/handle/1893/29325#.Ymqu99PMI2w) supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
-
+**Ph.D. in Environmental Science, University of Stirling (2018) ["Tropical Phenology in a Time of Change"](https://dspace.stir.ac.uk/handle/1893/29325#.Ymqu99PMI2w)**
 **M.Sc. in Conservation Science, Imperial College London (2013)**
-  * "What's the Catch? Mosquito Net Fishing in Coastal East Africa" supervised by Prof. EJ Milner Gulland and Dr Nick Hill
-
 **B.A. in Biological Sciences, University of Oxford (2010)**
-  * supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
   
 ## Employment
 
-**Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh (2020 - present)**
-  * Project: The Good City
-  * Supervisor: Dr Chris Ellis
+**Current role: Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh (2020 - present)**
+  * [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
+  * [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
-   <summary> Show more or less </summary>
+   <summary> Past roles </summary>
   
 **Postdoctoral Research Assistant, UK Centre for Ecology and Hydrology (2019-2020)**
-  * Project: [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
-  * Supervisor: Dr Stephen Cavers
+  * [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
 
 **Postdoctoral Research Assistant, University of Stirling (2019 - 2020)**
-  * Project: [Long term trends in Central African Forest Phenology](https://emma-bush.github.io/portfolio/lope/)
-  * Supervisor: Prof Katharine Abernethy
+  * [Long term trends in Central African Forest Phenology](https://emma-bush.github.io/portfolio/lope/)
 
 **Academic Researcher, University of Oxford (2010-2012)**
-  * Project: A global review of the exotic pet trade
-  * Project: Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
-  * Project: Woodland recovery after removal of deer: cascade effects for small mammals 
-  * Supervisors: Prof. David Macdonald and Dr Eleanor Slade
+  * A global review of the exotic pet trade
+  * Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
+  * Woodland recovery after removal of deer: cascade effects for small mammals 
 </details>
 
 ## Publications
 
->Featured Publication: Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), pp1219-1222 [https://doi.org/10.1126/science.abc7791](https://doi.org/10.1126/science.abc7791)
+**Featured Publication**
+
+>Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), pp1219-1222 [https://doi.org/10.1126/science.abc7791](https://doi.org/10.1126/science.abc7791)
 
 <details>
-  <summary> Show more or less </summary>
+  <summary> Other publications </summary>
   
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
