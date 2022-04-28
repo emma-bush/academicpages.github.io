@@ -20,7 +20,7 @@ B.A. in Biological Sciences, University of Oxford (2010)
 
 Current role:
 
->**Urban Biodiversity Scientist (2020-present), Royal Botanic Garden Edinburgh)**
+>**Urban Biodiversity Scientist (2020-present), Royal Botanic Garden Edinburgh**
 >- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
 >- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
@@ -29,11 +29,11 @@ Current role:
   
 ---
   
-**Postdoctoral Research Assistant (2019-2020), UK Centre for Ecology and Hydrology**
+2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology
 
-**Postdoctoral Research Assistant (2019-2020), University of Stirling**
+2019-2020: Postdoctoral Research Assistant (0.4FTE), University of Stirling
 
-**Academic Researcher (2010-2012), University of Oxford**
+2010-2012: Academic Researcher, University of Oxford
 
 </details>
 
@@ -75,8 +75,10 @@ Featured talk:
 <details>
   <summary>Full list of grants and scholarships</summary>
   
-* COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
-* Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
+COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
+  
+Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
+
 * Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
 * Collaborative Impact Studentship (2013) joint funded between University of Stirling and National Parks Agency Gabon (ANPN) - £67,200/4 years stipend + £16,000 training and fieldwork costs.
 * Tropical Agriculture Association Masters Award (2013) - £1000 fieldwork costs (PI).
