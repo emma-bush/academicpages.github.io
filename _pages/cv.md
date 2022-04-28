@@ -57,9 +57,9 @@ B.A. in Biological Sciences, University of Oxford, 2010
   * Supervisors: Prof. David Macdonald and Dr Eleanor Slade
 </details>
 
-### Publications
+
 <details>
-  <summary></summary>
+  <summary>Publications</summary>
   
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
