@@ -11,18 +11,23 @@ redirect_from:
 ## Education
 
 **Ph.D. in Environmental Science, University of Stirling (2018) ["Tropical Phenology in a Time of Change"](https://dspace.stir.ac.uk/handle/1893/29325#.Ymqu99PMI2w)**
+
 **M.Sc. in Conservation Science, Imperial College London (2013)**
+
 **B.A. in Biological Sciences, University of Oxford (2010)**
   
 ## Employment
 
-**Current role: Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh (2020 - present)**
+Current role:
+
+**Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh (2020 - present)**
   * [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
   * [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
-   <summary> Past roles </summary>
-  
+   <summary> Historic roles: </summary>
+
+
 **Postdoctoral Research Assistant, UK Centre for Ecology and Hydrology (2019-2020)**
   * [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
 
@@ -37,12 +42,12 @@ redirect_from:
 
 ## Publications
 
-**Featured Publication**
+Featured publication:
 
 >Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), pp1219-1222 [https://doi.org/10.1126/science.abc7791](https://doi.org/10.1126/science.abc7791)
 
 <details>
-  <summary> Other publications </summary>
+  <summary> Full list of publications: </summary>
   
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -52,8 +57,13 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 </details>
 
 ## Talks and meetings
- <details>
-  <summary>Show more or less</summary>
+
+Featured talk:
+
+>Fruit famine and hungry elephants in Central Africa, Invited seminar for the Oxford Centre for Tropical Forests, Oxford, UK [online](https://www.youtube.com/watch?v=r3bWu2YbP_M&feature=youtu.be)
+
+<details>
+  <summary>Full list of talks and meetings</summary>
       
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -61,8 +71,12 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
   </details>
   
 ## Grants and scholarships
- <details>
-  <summary>Show more or less</summary>
+ Featured grant:
+
+>COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI)
+
+<details>
+  <summary>Full list of grants and scholarships</summary>
   
 * COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
 * Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
