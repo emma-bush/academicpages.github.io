@@ -11,15 +11,18 @@ redirect_from:
 
 ### Education
   
-* Ph.D. in Environmental Science, University of Stirling, 2018
+Ph.D. in Environmental Science, University of Stirling, 2018
   * Thesis: "Tropical Phenology in a Time of Change" supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
-* M.Sc. in Conservation Science, Imperial College London, 2013
+
+M.Sc. in Conservation Science, Imperial College London, 2013
   * Thesis: "What's the Catch? Mosquite Net Fishing in Coastal East Africa" supervised by Prof. EJ Milner Gulland and Dr Nick Hill
-* B.A. in Biological Sciences, University of Oxford, 2010
+
+B.A. in Biological Sciences, University of Oxford, 2010
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
+### Employment
 <details>
-  <summary>Employment</summary>
+  <summary></summary>
   
 * 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
