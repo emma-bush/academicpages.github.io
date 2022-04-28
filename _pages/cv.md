@@ -26,7 +26,7 @@ redirect_from:
   
 ## Employment
 
-### Urban Biodiversity Scientist (0.6 FTE)
+##### Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
   * 2020 - present
   * Project: The Good City
@@ -35,19 +35,19 @@ redirect_from:
 <details>
    <summary> Show more or less </summary>
   
-### Postdoctoral Research Assistant (0.4 FTE) 
+#### Postdoctoral Research Assistant (0.4 FTE) 
   * UK Centre for Ecology and Hydrology (CEH)
   * 2019 - 2020
   * Project: [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
   * Supervisor: Dr Stephen Cavers
 
-### Postdoctoral Research Assistant (0.5 FTE) 
+**Postdoctoral Research Assistant (0.5 FTE)**
   * University of Stirling
   * 2019 - 2020
   * Project: [Long term trends in Central African Forest Phenology](https://emma-bush.github.io/portfolio/lope/)
   * Supervisor: Prof Katharine Abernethy
 
-### Academic Researcher
+Academic Researcher
   * University of Oxford
   * 2010 - 2012
   * Project: A global review of the exotic pet trade
@@ -57,6 +57,9 @@ redirect_from:
 </details>
 
 ## Publications
+
+>Featured Publication:
+
 <details>
   <summary> Show more or less </summary>
   
@@ -93,10 +96,7 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
     </details>
     
 ## Prizes
-<details>
-  <summary>Show more or less</summary>
     
 * Shortlisted for the Robert May Prize (2018), Methods in Ecology and Evolution, British Ecological Society
 * Best PhD Student publication (2016), Winter Symposium, University of Stirling
 * Best PhD Student presentation (2015), Winter Symposium, University of Stirling
-</details>
