@@ -10,11 +10,11 @@ redirect_from:
 
 ## Education
 
-**Ph.D. in Environmental Science, University of Stirling (2018) 
+>**Ph.D. in Environmental Science, University of Stirling (2018)**
 
-**M.Sc. in Conservation Science, Imperial College London (2013)**
+>**M.Sc. in Conservation Science, Imperial College London (2013)**
 
-**B.A. in Biological Sciences, University of Oxford (2010)**
+>**B.A. in Biological Sciences, University of Oxford (2010)**
   
 ## Employment
 
@@ -29,16 +29,16 @@ Current role:
 
   
 
-**Postdoctoral Research Assistant, UK Centre for Ecology and Hydrology (2019-2020)**
-  * [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
+>**Postdoctoral Research Assistant, UK Centre for Ecology and Hydrology (2019-2020)**
+>- [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
 
-**Postdoctoral Research Assistant, University of Stirling (2019 - 2020)**
-  * [Long term trends in Central African Forest Phenology](https://emma-bush.github.io/portfolio/lope/)
+>**Postdoctoral Research Assistant, University of Stirling (2019 - 2020)**
+>- [Long term trends in Central African Forest Phenology](https://emma-bush.github.io/portfolio/lope/)
 
-**Academic Researcher, University of Oxford (2010-2012)**
-  * A global review of the exotic pet trade
-  * Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
-  * Woodland recovery after removal of deer: cascade effects for small mammals 
+>**Academic Researcher, University of Oxford (2010-2012)**
+>- A global review of the exotic pet trade
+>- Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
+>- Woodland recovery after removal of deer: cascade effects for small mammals 
 </details>
 
 ## Publications
