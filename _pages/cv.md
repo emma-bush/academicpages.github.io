@@ -10,30 +10,31 @@ redirect_from:
 
 ## Education
 
-<details>
-   <summary> Show more or less </summary>
-
 ### Ph.D. in Environmental Science, University of Stirling, 2018
-  * Thesis: "Tropical Phenology in a Time of Change" supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
+  * ["Tropical Phenology in a Time of Change"](https://dspace.stir.ac.uk/handle/1893/29325#.Ymqu99PMI2w) supervised by Prof. Nils Bunnefeld and Prof. Katharine Abernethy
 
+<details>
+   <summary> More </summary> 
+  
 ### M.Sc. in Conservation Science, Imperial College London, 2013
-  * Thesis: "What's the Catch? Mosquite Net Fishing in Coastal East Africa" supervised by Prof. EJ Milner Gulland and Dr Nick Hill
+  * "What's the Catch? Mosquito Net Fishing in Coastal East Africa" supervised by Prof. EJ Milner Gulland and Dr Nick Hill
 
 ### B.A. in Biological Sciences, University of Oxford, 2010
-  * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
+  * supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
   
 </details>
   
 ## Employment
-<details>
-   <summary> Show more or less </summary>
-  
+
 ### Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
   * 2020 - present
   * Project: The Good City
   * Supervisor: Dr Chris Ellis
 
+<details>
+   <summary> Show more or less </summary>
+  
 ### Postdoctoral Research Assistant (0.4 FTE) 
   * UK Centre for Ecology and Hydrology (CEH)
   * 2019 - 2020
@@ -95,9 +96,7 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 <details>
   <summary>Show more or less</summary>
     
-2018 - Shortlisted for the Robert May Prize, Methods in Ecology and Evolution, British Ecological Society
-
-2016 - Best PhD Student publication, Winter Symposium, University of Stirling
-
-2015 - Best PhD Student presentation, Winter Symposium, University of Stirling
+* Shortlisted for the Robert May Prize (2018), Methods in Ecology and Evolution, British Ecological Society
+* Best PhD Student publication (2016), Winter Symposium, University of Stirling
+* Best PhD Student presentation (2015), Winter Symposium, University of Stirling
 </details>
