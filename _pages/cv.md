@@ -25,7 +25,7 @@ redirect_from:
 <details>
   <summary>Click to expand!</summary>
   
-  * 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
+* 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
   * Project: The Good City
   * Supervisor: Dr Chris Ellis
@@ -49,25 +49,40 @@ redirect_from:
 </details>
 
 ### Publications
+<details>
+  <summary>Click to expand!</summary>
+  
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Ecology and Society and PeerJ
+</details>
 
 ### Prizes
+<details>
+  <summary>Click to expand!</summary>
+    
 2018 - Shortlisted for the Robert May Prize, Methods in Ecology and Evolution, British Ecological Society
 
 2016 - Best PhD Student publication, Winter Symposium, University of Stirling
 
 2015 - Best PhD Student presentation, Winter Symposium, University of Stirling
+</details>
 
 ### Talks and meetings
+ <details>
+  <summary>Click to expand!</summary>
+      
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  </details>
   
 ### Grants and scholarships
+ <details>
+  <summary>Click to expand!</summary>
+  
 * COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
 * Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
 * Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
@@ -78,3 +93,5 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 * Imperial College London Rector’s Scholarship Fund Masters Award (2012) - £5000 living expenses and fees.
 * Peoples Trust for Endangered Species Graduate Research Internship (2010) - £6000 fieldwork costs (PI).
 * Hertford College Academic Scholarship, University of Oxford (2009)
+    </details>
+    
