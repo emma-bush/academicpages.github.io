@@ -10,9 +10,9 @@ redirect_from:
 
 ## Education
 
->-**Ph.D. in Environmental Science, University of Stirling (2018)**
->-**M.Sc. in Conservation Science, Imperial College London (2013)**
->-**B.A. in Biological Sciences, University of Oxford (2010)**
+>Ph.D. in Environmental Science, University of Stirling (2018)
+>M.Sc. in Conservation Science, Imperial College London (2013)
+>B.A. in Biological Sciences, University of Oxford (2010)
   
 ## Employment
 
