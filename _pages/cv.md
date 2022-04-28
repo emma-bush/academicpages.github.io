@@ -21,8 +21,11 @@ B.A. in Biological Sciences, University of Oxford (2010)
 Current role:
 
 >**Scientist, Royal Botanic Garden Edinburgh**
+>
 >Projects:
+>
 >    [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
+>    
 >    [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
