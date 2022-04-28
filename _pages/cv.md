@@ -21,19 +21,15 @@ B.A. in Biological Sciences, University of Oxford (2010)
 Current role:
 
 >**Scientist, Royal Botanic Garden Edinburgh**
->
->Projects:
->
->    [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
->    
->    [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
+>- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
+>- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
    <summary> Full employment history: </summary>
 
 ---
 
-2020-present: Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh
+2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh
   
 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology
 
@@ -51,9 +47,9 @@ Featured publication:
 
 <details>
   <summary> Full list of publications: </summary>
-    
+
 ---
-  
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -65,13 +61,13 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 
 Featured talk:
 
->Fruit famine and hungry elephants in Central Africa (2021), Invited seminar for the Oxford Center for Tropical Forests, Oxford, UK, [YouTube](https://www.youtube.com/watch?v=r3bWu2YbP_M&feature=youtu.be)
+>Fruit famine and hungry elephants in Central Africa (2021), Oxford Center for Tropical Forests, Oxford, UK, [YouTube](https://www.youtube.com/watch?v=r3bWu2YbP_M&feature=youtu.be)
 
 <details>
   <summary>Full list of talks and meetings</summary>
-  
+
 ---
-        
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -84,9 +80,9 @@ Featured talk:
 
 <details>
   <summary>Full list of grants and scholarships</summary>
-  
+
 ---
-    
+
 * COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
 * Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
 * Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
