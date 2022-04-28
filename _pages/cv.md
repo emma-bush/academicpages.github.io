@@ -22,7 +22,7 @@ B.A. in Biological Sciences, University of Oxford, 2010
 
 ### Employment
 <details>
-  <summary>__Employment__</summary>
+  <summary> **Employment** </summary>
   
 * 2020 - present: Urban Biodiversity Scientist (0.6 FTE)
   * Royal Botanic Garden Edinburgh
