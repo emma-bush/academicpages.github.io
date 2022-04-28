@@ -83,10 +83,8 @@ Featured talk:
   
 ---
     
-COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
-  
-Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
-
+* COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
+* Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
 * Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
 * Collaborative Impact Studentship (2013) joint funded between University of Stirling and National Parks Agency Gabon (ANPN) - £67,200/4 years stipend + £16,000 training and fieldwork costs.
 * Tropical Agriculture Association Masters Award (2013) - £1000 fieldwork costs (PI).
