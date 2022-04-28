@@ -20,9 +20,9 @@ redirect_from:
 
 Current role:
 
-**Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh (2020 - present)**
-  * [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
-  * [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
+**Urban Biodiversity Scientist (2020-present), Royal Botanic Garden Edinburgh)**
+  [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
+  [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
    <summary> Historic roles: </summary>
@@ -60,7 +60,7 @@ Reviewer for: Journal of Plant Ecology, Biotropica, Biological Conservation, Eco
 
 Featured talk:
 
->Fruit famine and hungry elephants in Central Africa, Invited seminar for the Oxford Centre for Tropical Forests, Oxford, UK [online](https://www.youtube.com/watch?v=r3bWu2YbP_M&feature=youtu.be)
+>Fruit famine and hungry elephants in Central Africa, Invited seminar for the Oxford Center for Tropical Forests, Oxford, UK [YouTube](https://www.youtube.com/watch?v=r3bWu2YbP_M&feature=youtu.be)
 
 <details>
   <summary>Full list of talks and meetings</summary>
@@ -73,7 +73,7 @@ Featured talk:
 ## Grants and scholarships
  Featured grant:
 
->COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI)
+>COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh
 
 <details>
   <summary>Full list of grants and scholarships</summary>
