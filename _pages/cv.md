@@ -29,16 +29,12 @@ Current role:
   
 ---
   
-**Postdoctoral Research Assistant, UK Centre for Ecology and Hydrology (2019-2020)**
-- [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
+**Postdoctoral Research Assistant (2019-2020), UK Centre for Ecology and Hydrology**
 
-**Postdoctoral Research Assistant, University of Stirling (2019 - 2020)**
-- [Long term trends in Central African Forest Phenology](https://emma-bush.github.io/portfolio/lope/)
+**Postdoctoral Research Assistant (2019-2020), University of Stirling**
 
-**Academic Researcher, University of Oxford (2010-2012)**
-- A global review of the exotic pet trade
-- Effects of tropical forest modification and fragmentation on dung beetle biodiversity and ecosystem functioning
-- Woodland recovery after removal of deer: cascade effects for small mammals 
+**Academic Researcher (2010-2012), University of Oxford**
+
 </details>
 
 ## Publications
