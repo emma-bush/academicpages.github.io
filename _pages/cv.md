@@ -20,15 +20,16 @@ B.A. in Biological Sciences, University of Oxford (2010)
 
 Current role:
 
->**Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh**
->- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
->- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
+>**Scientist, Royal Botanic Garden Edinburgh**
+>Projects:
+>    [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
+>    [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
 
 <details>
    <summary> Full employment history: </summary>
-  
+
 ---
-  
+
 2020-present: Urban Biodiversity Scientist, Royal Botanic Garden Edinburgh
   
 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology
