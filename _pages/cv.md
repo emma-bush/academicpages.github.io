@@ -27,6 +27,7 @@ Current role:
 <details>
    <summary> Historic roles: </summary>
 
+  
 
 **Postdoctoral Research Assistant, UK Centre for Ecology and Hydrology (2019-2020)**
   * [Phenology and ecological genetics in the Kenyan drylands](https://emma-bush.github.io/portfolio/kenya-drylands/)
