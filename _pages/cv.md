@@ -11,7 +11,7 @@ redirect_from:
 
 ----
 
-## On this page
+# On this page
 {:.no_toc}
 
 - TOC
@@ -30,7 +30,7 @@ M.Sc. in Conservation Science, Imperial College London, 2013
 B.A. in Biological Sciences, University of Oxford, 2010
   * Thesis: supervised by Mr Timothy Walker (University of Oxford Botanic Garden)
 
-### Employment
+# Employment
 <details>
    <summary markdown="span"> Employment </summary>
   
