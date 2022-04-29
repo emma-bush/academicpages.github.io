@@ -5,7 +5,7 @@ excerpt: '[Access full text here](https://www.science.org/stoken/author-tokens/S
 date: 2020-04-14
 venue: 'Science'
 paperurl: 'https://doi.org/10.1126/science.abc7791'
-citation: 'Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), pp1219-1222'
+citation: 'Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., Makaga, L., Momboua, B., Momont, L.R.W., Tutin, C.E.G., White, L.J.T., Whittaker, A., Abernethy, K. 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), pp1219-1222'
 ---
   
   [Access full text here](https://www.science.org/stoken/author-tokens/ST-449/full)
