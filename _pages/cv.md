@@ -49,7 +49,7 @@ Current role:
 
 Featured publication:
 
-  >Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J. and Lehmann, D., 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), [https://doi.org/10.1126/science.abc7791](https://doi.org/10.1126/science.abc7791)
+  >Bush, E.R., Whytock, R.C., Bourgeois, S., Bunnefeld, N., Cardoso, A.W., Dikangadissi, J.T., Dimbonda, P., Dimoto, E., Ndong, J.E., Jeffery, K.J., Lehmann, D., Makaga, L., Momboua, B., Momont, L.R.W., Tutin, C.E.G., White, L.J.T., Whittaker, A. and Abernethy, K, 2020. Long-term collapse in fruit availability threatens Central African forest megafauna. Science, 370(6521), [https://doi.org/10.1126/science.abc7791](https://doi.org/10.1126/science.abc7791)
 
 <details>
   <summary> Full list of publications: </summary>
