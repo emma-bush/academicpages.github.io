@@ -12,7 +12,7 @@ redirect_from:
 
 **I am a research scientist at the Royal Botanic Garden Edinburgh, where I study plants, their role in human society and the climate and biodiversity crises**. 
 
-My core expertise and experience lie in seasonality and biological rhythms (phenology), climate impacts on plants,  tropical forest ecosystems and urban biodiversity. As a research scientist I publish scientific papers in international journals, communicate research findings to academic and public audiences and provide policy-relevant briefings to governments. 
+My core expertise lies in seasonality and biological rhythms (phenology), climate impacts on tropical forest ecosystems, urban biodiversity and climate adaptation.I publish scientific papers in international journals, communicate research findings to academic and public audiences and provide policy-relevant briefings to governments. 
 
 In 2017 I founded the [African Phenology Network](https://africanphenologynetwork.online) and am keen to hear from African scientists and those interested in African phenology to lead on this initiative.
 
