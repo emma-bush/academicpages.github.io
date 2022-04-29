@@ -5,7 +5,7 @@ excerpt: ''
 date: 2020-04-14
 venue: 'PeerJ'
 paperurl: 'https://peerj.com/articles/8732/'
-citation: 'Bush, E.R., Jeffery, K., Bunnefeld, N., Tutin, C., Musgrave, R., Moussavou, G., Mihindou, V., Malhi, Y., Lehmann, D., Ndong, J.E. and Makaga, L., 2020. Rare ground data confirm significant warming and drying in western equatorial Africa. PeerJ, 8, p.e8732'
+citation: 'Bush, E.R., Jeffery, K., Bunnefeld, N., Tutin, C., Musgrave, R., Moussavou, G., Mihindou, V., Malhi, Y., Lehmann, D., Ndong, J.E. and Makaga, L., Abernethy, K. 2020. Rare ground data confirm significant warming and drying in western equatorial Africa. PeerJ, 8, p.e8732'
 ---
   
 ### Abstract
