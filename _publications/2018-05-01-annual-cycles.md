@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-05-01
 venue: 'Biotropica'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.12561'
-citation: 'Adamescu, G.S., Plumptre, A.J., Abernethy, K.A., Polansky, L., Bush, E.R., Chapman, C.A., Shoo, L.P., Fayolle, A., Janmaat, K.R., Robbins, M.M. and Ndangalasi, H.J., 2018. Annual cycles are the most common reproductive strategy in African tropical tree communities. Biotropica, 50(3), pp.418-430.'
+citation: 'Adamescu, G. S., Plumptre, A. J., Abernethy, K. A., Polansky, L., Bush, E. R., Shoo, L. P., ... & Beale, C. M. 2018. Annual cycles are the most common reproductive strategy in African tropical tree communities. Biotropica, 50(3), pp.418-430.'
 ---
   
 ### Abstract
