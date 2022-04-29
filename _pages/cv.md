@@ -82,23 +82,35 @@ Featured talk:
 ## Grants and scholarships
  Featured grant:
 
-  >COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh
+  >COP26 International Climate Change Network Grant (2021), The Royal Society of Edinburgh
 
 <details>
   <summary>Full list of grants and scholarships</summary>
 
+
 ---
 
+
 * COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
+
 * Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
+
 * Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
+
 * Collaborative Impact Studentship (2013) joint funded between University of Stirling and National Parks Agency Gabon (ANPN) - £67,200/4 years stipend + £16,000 training and fieldwork costs.
+
 * Tropical Agriculture Association Masters Award (2013) - £1000 fieldwork costs (PI).
+
 * Imperial College Conservation Science (ICCS) Project Bursary Award (2013) - £500 fieldwork costs (PI).
+
 * Conservation Science MSc Bursary (2012) - £4000 living expenses.
+
 * Imperial College London Rector’s Scholarship Fund Masters Award (2012) - £5000 living expenses and fees.
+
 * Peoples Trust for Endangered Species Graduate Research Internship (2010) - £6000 fieldwork costs (PI).
+
 * Hertford College Academic Scholarship, University of Oxford (2009)
+
     </details>
     
 ## Prizes
