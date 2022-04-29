@@ -27,15 +27,21 @@ Current role:
 <details>
    <summary> Full employment history: </summary>
 
+
 ---
 
+
 2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh
-  
+
+
 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology
+
 
 2019-2020: Postdoctoral Research Assistant (0.4FTE), University of Stirling
 
+
 2010-2012: Academic Researcher, University of Oxford
+
 
 </details>
 
