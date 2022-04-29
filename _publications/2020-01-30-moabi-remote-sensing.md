@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-01-30
 venue: 'Remote Sensing'
 paperurl: 'https://www.mdpi.com/2072-4292/12/3/429'
-citation: 'Bush, E.R.; Mitchard, E.T.; Silva, T.S.; Dimoto, E.; Dimbonda, P.; Makaga, L.; Abernethy, K. (2020) Monitoring Mega-Crown Leaf Turnover from Space. Remote Sens. 12, 429'
+citation: 'Bush, E.R., Mitchard, E.T., Silva, T.S., Dimoto, E., Dimbonda, P., Makaga, L. and Abernethy, K. (2020) Monitoring Mega-Crown Leaf Turnover from Space. Remote Sens. 12, 429'
 ---
 
 ![alt text](/images/GraphicalAbstract.png "Graphical Abstract")
