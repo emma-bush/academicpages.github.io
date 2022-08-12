@@ -29,16 +29,10 @@ Current role:
 
 ---
 
-> 2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh
-
-
-> 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology
-
-
-> 2019-2020: Postdoctoral Research Assistant (0.4FTE), University of Stirling
-
-
-> 2010-2012: Academic Researcher, University of Oxford
+- 2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh
+- 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology
+- 2019-2020: Postdoctoral Research Assistant (0.4FTE), University of Stirling
+- 2010-2012: Academic Researcher, University of Oxford
 
 
 </details>
@@ -87,25 +81,17 @@ Featured talk:
 
 ---
 
-> COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
-
-> Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
-
-> Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
-
-> Collaborative Impact Studentship (2013) joint funded between University of Stirling and National Parks Agency Gabon (ANPN) - £67,200/4 years stipend + £16,000 training and fieldwork costs.
-
-> Tropical Agriculture Association Masters Award (2013) - £1000 fieldwork costs (PI).
-
-> Imperial College Conservation Science (ICCS) Project Bursary Award (2013) - £500 fieldwork costs (PI).
-
-> Conservation Science MSc Bursary (2012) - £4000 living expenses.
-
-> Imperial College London Rector’s Scholarship Fund Masters Award (2012) - £5000 living expenses and fees.
-
-> Peoples Trust for Endangered Species Graduate Research Internship (2010) - £6000 fieldwork costs (PI).
-
-> Hertford College Academic Scholarship, University of Oxford (2009)
+- Growing Roots 'Engaging the public with environmental science' (2022), The Natural Environment Research Council (NERC) - £9990 to fund 6 month science public engagement project PI).
+- COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
+- Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
+- Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
+- Collaborative Impact Studentship (2013) joint funded between University of Stirling and National Parks Agency Gabon (ANPN) - £67,200/4 years stipend + £16,000 training and fieldwork costs.
+- Tropical Agriculture Association Masters Award (2013) - £1000 fieldwork costs (PI).
+- Imperial College Conservation Science (ICCS) Project Bursary Award (2013) - £500 fieldwork costs (PI).
+- Conservation Science MSc Bursary (2012) - £4000 living expenses.
+- Imperial College London Rector’s Scholarship Fund Masters Award (2012) - £5000 living expenses and fees.
+- Peoples Trust for Endangered Species Graduate Research Internship (2010) - £6000 fieldwork costs (PI).
+- Hertford College Academic Scholarship, University of Oxford (2009)
 
     </details>
     
