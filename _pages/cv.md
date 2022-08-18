@@ -22,17 +22,17 @@ Current role:
 
   >**Scientist, Royal Botanic Garden Edinburgh**
   >- [The Good City](https://emma-bush.github.io/portfolio/1-TheGoodCity/)
-  >- [The African Phenology Network COP26 Project](https://africanphenologynetwork.online/)
+  >- [The African Phenology Network](https://africanphenologynetwork.online/)
 
-<details>
-   <summary> Full employment history: </summary>
+Full employment history:
 
----
+2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh, UK
 
-- 2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh
-- 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology
-- 2019-2020: Postdoctoral Research Assistant (0.4FTE), University of Stirling
-- 2010-2012: Academic Researcher, University of Oxford
+2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology, UK
+
+2019-2020: Postdoctoral Research Assistant (0.4FTE), University of Stirling, UK
+
+2010-2012: Academic Researcher, University of Oxford, UK
 
 
 </details>
@@ -72,16 +72,8 @@ Featured talk:
   </details>
   
 ## Grants and scholarships
- Featured grant:
 
-  >COP26 International Climate Change Network Grant (2021), The Royal Society of Edinburgh
-
-<details>
-  <summary>Full list of grants and scholarships</summary>
-
----
-
-- Growing Roots 'Engaging the public with environmental science' (2022), The Natural Environment Research Council (NERC) - £9990 to fund 6 month science public engagement project PI).
+- Growing Roots 'Engaging the public with environmental science' (2022), The Natural Environment Research Council (NERC) - £9990 to fund 6 month public engagement project (PI).
 - COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
 - Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
 - Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
