@@ -5,7 +5,7 @@ excerpt: '[Access pdf here](https://besjournals.onlinelibrary.wiley.com/doi/epdf
 date: 2022-04-26
 venue: 'Functional Ecology'
 paperurl: 'https://doi.org/10.1111/gcb.16130'
-citation: 'Williamson, J., Teh, E., Jucker, T., Brindle, M., Bush, E., Chung, A. Y., Parrett, J., Lewis, O. T., Rossiter, S. J., Slade, E. M. (2022). Local-scale temperature gradients driven by human disturbance shape the physiological and morphological traits of dung beetle communities in a Bornean oil palm–forest mosaic. Functional Ecology, 00, 1– 13. https://doi.org/10.1111/1365-2435.14062'
+citation: "Williamson, J., Teh, E., Jucker, T., Brindle, M., Bush, E., Chung, A. Y., Parrett, J., Lewis, O. T., Rossiter, S. J., Slade, E. M. (2022). Local-scale temperature gradients driven by human disturbance shape the physiological and morphological traits of dung beetle communities in a Bornean oil palm–forest mosaic. Functional Ecology, 00, 1– 13. https://doi.org/10.1111/1365-2435.14062"
 ---
   
   [Access pdf here](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2435.14062)
