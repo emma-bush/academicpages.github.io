@@ -29,9 +29,13 @@ Current role:
 
 ---
 
-* 2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh, UK
+- 2020-present: Urban Biodiversity Scientist (0.6 FTE), Royal Botanic Garden Edinburgh, UK
+  
+  |
 
-* 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology, UK
+- 2019-2020: Postdoctoral Research Assistant (0.5 FTE), UK Centre for Ecology and Hydrology, UK
+  
+  |
 
 * 2019-2020: Postdoctoral Research Assistant (0.4FTE), University of Stirling, UK
 
@@ -83,7 +87,9 @@ Featured grant:
   <summary>Full list of grants and scholarships </summary>
  
 - Growing Roots 'Engaging the public with environmental science' (2022), The Natural Environment Research Council (NERC) - £9990 to fund 6 month public engagement project (PI).
+  
 - COP26 International Climate Change Network grant (2021), The Royal Society of Edinburgh - £9920 to fund 6 month networking project for the African Phenology Network (PI).
+  
 - Research Grant (2019), National Parks Agency Gabon - £31,533 to fund 12-month (0.5 FTE) PDRA at the University of Stirling (Co-I).
 - Connect+ grant (2018), University of Stirling - £6150 to fund workshop (Co-I).
 - Collaborative Impact Studentship (2013) joint funded between University of Stirling and National Parks Agency Gabon (ANPN) - £67,200/4 years stipend + £16,000 training and fieldwork costs.
