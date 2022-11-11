@@ -1,6 +1,6 @@
 ---
 title: "Climate Sense"
-excerpt: "Exploring the impacts of climate change through inclusive sensory tools <br/><img src='/images/Logos.jpg'>"
+excerpt: "Exploring the impacts of climate change through inclusive sensory tools <br/><img src='/images/Logos.png'>"
 collection: portfolio
 ---
 
