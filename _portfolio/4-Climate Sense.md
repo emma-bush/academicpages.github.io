@@ -1,6 +1,6 @@
 ---
 title: "Climate Sense"
-excerpt: "Exploring the impacts of climate change through sound, light, colour and touch <br/><img src='/images/thegoodcityleft.png'>"
+excerpt: "Exploring the impacts of climate change through inclusive sensory tools <br/><img src='/images/Logos.jpg'>"
 collection: portfolio
 ---
 
@@ -14,3 +14,7 @@ Climate Sense encourages the public to explore cutting-edge research into the co
 
 ---
 Climate Sense is a 6-month project running from August 2022 to February 2023 and is funded by a NERC grant (Engaging the public with environmental science 2022 - Growing Roots). The project is a collaboration between the [Royal Botanic Garden Edinburgh](https://www.rbge.org.uk/) and the [L'Arche Manchester Community](https://www.larchemanchester.org.uk/).
+
+---
+
+<br/><img src='/images/Logos.jpg'>
