@@ -1,6 +1,6 @@
 ---
 title: "The Good City"
-excerpt: "Urban Resilience | Climate Adaptation | Youth Empowerment <br/><img src='/images/thegoodcityleft.png'>"
+excerpt: "Urban Resilience - Climate Adaptation - Youth Empowerment <br/><img src='/images/thegoodcityleft.png'>"
 collection: portfolio
 ---
 
