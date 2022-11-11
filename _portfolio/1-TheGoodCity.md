@@ -1,6 +1,6 @@
 ---
 title: "The Good City"
-excerpt: "Participatory mapping to fix the urban nature gap <br/><img src='/images/thegoodcityleft.png'>"
+excerpt: "Urban Resilience | Climate Adaptation | Youth Empowerment <br/><img src='/images/thegoodcityleft.png'>"
 collection: portfolio
 ---
 
@@ -17,7 +17,7 @@ But while we need nature, nature also needs us. Habitat loss, pollution and clim
 
 ![alt text](/images/GoodCityMapping2.png "Dr Emma Bush talking with young people about urban biodiversity (c) Emma Bush =125x")
 
-The Good City is a research project run by scientists at the Royal Botanic Garden Edinburgh as part of the Edinburgh Living Landscape initiative. Our aim is to fix the nature gap in urban areas by providing high quality data at local scales and empowering young people to advocate for better, future-adapted cities. From Spring 2021 we are inviting young people throughout Edinburgh secondary schools to become co-investigators in a scientific research project to assess the resilience of their own neighborhoods using their “route to school” as a sampling tool. 
+I designed The Good City research project as part of my current role as Urban Biodiversity and Resilience scientist at the Royal Botanic Garden Edinburgh. Our aim for this project is to fix the nature gap in urban areas by providing high quality data at local scales and empowering young people to advocate for better, future-adapted cities. From Spring 2021 we have been inviting young people throughout Edinburgh secondary schools to become co-investigators in a scientific research project to assess the resilience of their own neighborhoods using their “route to school” as a sampling tool. 
 
 ![alt text](/images/Survey_screenshot.PNG "Mapping activity as core task in online survey (c) Emma Bush =125x")
 
